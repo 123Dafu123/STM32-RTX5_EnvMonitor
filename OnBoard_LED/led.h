@@ -1,0 +1,25 @@
+#ifndef _LED_H
+#define _LED_H
+
+#include "cmsis_os2.h"
+#include "stm32l4xx_hal.h"
+
+void LED_Init(void);//³õÊ¼»¯
+
+void LEDR(int status);//ºìµÆ¿ØÖÆ
+
+void LEDR_TogglePin(void);//ºìµÆ·­×ª
+
+void LEDG(int status);//ÂÌµÆ¿ØÖÆ
+
+void LEDG_TogglePin(void);//ÂÌµÆ·­×ª
+
+void LEDB(int status);//À¶µÆ¿ØÖÆ
+
+void LEDB_TogglePin(void);//À¶µÆ·­×ª
+
+#endif
+
+
+
+

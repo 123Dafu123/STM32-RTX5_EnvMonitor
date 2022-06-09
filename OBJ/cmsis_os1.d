@@ -1,0 +1,10 @@
+..\obj\cmsis_os1.o: C:\Users\24345\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\RTOS2\RTX\Library\cmsis_os1.c
+..\obj\cmsis_os1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\cmsis_os1.o: C:\Users\24345\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\RTOS2\RTX\Include1\cmsis_os.h
+..\obj\cmsis_os1.o: C:\Users\24345\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\RTOS2\Include\cmsis_os2.h
+..\obj\cmsis_os1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\cmsis_os1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\cmsis_os1.o: C:\Users\24345\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
+..\obj\cmsis_os1.o: C:\Users\24345\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\RTOS2\RTX\Include\rtx_def.h
+..\obj\cmsis_os1.o: .\RTE\_RTX5_1\RTE_Components.h
+..\obj\cmsis_os1.o: .\RTE\CMSIS\RTX_Config.h
